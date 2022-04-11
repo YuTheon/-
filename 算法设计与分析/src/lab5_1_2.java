@@ -68,6 +68,7 @@ class Node512{
         back = new Node512();
     }
 }
+/*
 
 class QReader {
     private BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -140,3 +141,4 @@ class QWriter implements Closeable {
         }
     }
 }
+*/
